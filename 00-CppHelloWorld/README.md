@@ -1,3 +1,3 @@
 00-CppHelloWorld
-Primer programa en C++
+Algoritmos y Estructura de Datos
 Trabajo #0, Juan Manuel Pereira Otero
